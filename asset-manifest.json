@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/DoggyDayCare/static/css/main.9e9a8e3e.chunk.css",
-    "main.js": "/DoggyDayCare/static/js/main.df48d1c2.chunk.js",
-    "main.js.map": "/DoggyDayCare/static/js/main.df48d1c2.chunk.js.map",
+    "main.js": "/DoggyDayCare/static/js/main.169e5c86.chunk.js",
+    "main.js.map": "/DoggyDayCare/static/js/main.169e5c86.chunk.js.map",
     "runtime-main.js": "/DoggyDayCare/static/js/runtime-main.4f4d2323.js",
     "runtime-main.js.map": "/DoggyDayCare/static/js/runtime-main.4f4d2323.js.map",
     "static/js/2.3c811ccb.chunk.js": "/DoggyDayCare/static/js/2.3c811ccb.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.4f4d2323.js",
     "static/js/2.3c811ccb.chunk.js",
     "static/css/main.9e9a8e3e.chunk.css",
-    "static/js/main.df48d1c2.chunk.js"
+    "static/js/main.169e5c86.chunk.js"
   ]
 }
