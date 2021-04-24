@@ -1,9 +1,10 @@
-import React, {useState, useEffect} from 'react';
+
 const TestButton = () => {
-    console.log("test button click")
-    useEffect(() => {
-        console.log("useeffect []");
-    }, [])
+    console.log("test button click");
+        let fetchApi = fetch('https://api.jsonbin.io/b/607eb43024143e5df089b745')
+        console.log('fetch', fetchApi)
+        
+
     return(
         <div>
         <div class="navbar">
