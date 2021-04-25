@@ -1,0 +1,14 @@
+.dogPhotos{
+    width: 30%;
+    height: 30%;
+    object-fit: cover;
+    display: flex;
+  flex-flow: row;
+  align-items: center;
+  max-width: 1120px;
+  
+}
+.photos{
+    padding: 4rem;
+  background: #fff;
+}

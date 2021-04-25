@@ -16,12 +16,12 @@ function FetchApiData(){
         })
     }, [])
     return(
-        <div>
+        <div className='photos'>
             <ul>
                 {apiData.map(item =>
                 <li key= {item.id} >
+                   <img className ='dogPhotos' src = {item.img} ></img><br></br>
                    Name: {item.name} | sex: {item.sex}
-                   <img src = {item.img} ></img>
                 </li>
                 )}
             </ul>

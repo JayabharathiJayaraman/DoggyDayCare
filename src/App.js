@@ -5,6 +5,7 @@ import Home from './components/Home';
 import AboutUs from './components/AboutUs';
 import Photos from './components/Photos';
 import Contact from './components/Contact';
+import Footer from './components/Footer';
 
 
 function App() {
@@ -26,6 +27,7 @@ function App() {
           <Contact/>
           </Route>
       </Switch>
+      <Footer></Footer>
       </Router>
    </>  
   );
