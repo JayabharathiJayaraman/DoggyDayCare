@@ -29,7 +29,6 @@ function Footer() {
               Doggy DayCare <i className="fas fa-paw"></i>
               </Link>
             </div>
-            
             <small class='website-rights'>Doggy © 2020</small>
             <div class='social-icons'>
               <Link

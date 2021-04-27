@@ -1,14 +1,10 @@
-.dogPhotos{
-    width: 30%;
-    height: 30%;
-    object-fit: cover;
-    display: flex;
-  flex-flow: row;
-  align-items: center;
-  max-width: 1120px;
+
+
+
+
+ul.thumb{
+  width: 50%;
+  height: 50%;
+  display: flex;
   
-}
-.photos{
-    padding: 4rem;
-  background: #fff;
 }
