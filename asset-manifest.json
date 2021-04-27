@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/DoggyDayCare/static/css/main.9e9a8e3e.chunk.css",
-    "main.js": "/DoggyDayCare/static/js/main.6133dc21.chunk.js",
-    "main.js.map": "/DoggyDayCare/static/js/main.6133dc21.chunk.js.map",
-    "runtime-main.js": "/DoggyDayCare/static/js/runtime-main.4f4d2323.js",
-    "runtime-main.js.map": "/DoggyDayCare/static/js/runtime-main.4f4d2323.js.map",
-    "static/js/2.3c811ccb.chunk.js": "/DoggyDayCare/static/js/2.3c811ccb.chunk.js",
-    "static/js/2.3c811ccb.chunk.js.map": "/DoggyDayCare/static/js/2.3c811ccb.chunk.js.map",
-    "static/js/3.45bd8f6a.chunk.js": "/DoggyDayCare/static/js/3.45bd8f6a.chunk.js",
-    "static/js/3.45bd8f6a.chunk.js.map": "/DoggyDayCare/static/js/3.45bd8f6a.chunk.js.map",
+    "main.css": "/DoggyDayCare/static/css/main.a5b25ba1.chunk.css",
+    "main.js": "/DoggyDayCare/static/js/main.7d7ba446.chunk.js",
+    "main.js.map": "/DoggyDayCare/static/js/main.7d7ba446.chunk.js.map",
+    "runtime-main.js": "/DoggyDayCare/static/js/runtime-main.c7c00f30.js",
+    "runtime-main.js.map": "/DoggyDayCare/static/js/runtime-main.c7c00f30.js.map",
+    "static/js/2.999904b9.chunk.js": "/DoggyDayCare/static/js/2.999904b9.chunk.js",
+    "static/js/2.999904b9.chunk.js.map": "/DoggyDayCare/static/js/2.999904b9.chunk.js.map",
+    "static/js/3.858ee24b.chunk.js": "/DoggyDayCare/static/js/3.858ee24b.chunk.js",
+    "static/js/3.858ee24b.chunk.js.map": "/DoggyDayCare/static/js/3.858ee24b.chunk.js.map",
     "index.html": "/DoggyDayCare/index.html",
-    "static/css/main.9e9a8e3e.chunk.css.map": "/DoggyDayCare/static/css/main.9e9a8e3e.chunk.css.map",
-    "static/js/2.3c811ccb.chunk.js.LICENSE.txt": "/DoggyDayCare/static/js/2.3c811ccb.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/DoggyDayCare/static/media/logo.6ce24c58.svg"
+    "static/css/main.a5b25ba1.chunk.css.map": "/DoggyDayCare/static/css/main.a5b25ba1.chunk.css.map",
+    "static/js/2.999904b9.chunk.js.LICENSE.txt": "/DoggyDayCare/static/js/2.999904b9.chunk.js.LICENSE.txt",
+    "static/media/img2.1d5a83f9.jpg": "/DoggyDayCare/static/media/img2.1d5a83f9.jpg",
+    "static/media/img3.3c084bbe.jpg": "/DoggyDayCare/static/media/img3.3c084bbe.jpg",
+    "static/media/img4.4d6efb6d.jpg": "/DoggyDayCare/static/media/img4.4d6efb6d.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4f4d2323.js",
-    "static/js/2.3c811ccb.chunk.js",
-    "static/css/main.9e9a8e3e.chunk.css",
-    "static/js/main.6133dc21.chunk.js"
+    "static/js/runtime-main.c7c00f30.js",
+    "static/js/2.999904b9.chunk.js",
+    "static/css/main.a5b25ba1.chunk.css",
+    "static/js/main.7d7ba446.chunk.js"
   ]
 }
