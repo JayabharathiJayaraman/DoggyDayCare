@@ -1,6 +1,10 @@
 import './photos.css';
 import React, { useEffect, useState} from 'react';
 
+function openLightbox() {
+    console.log('openLightbox');
+    }
+
 function FetchApiData(){
     const [apiData, setApiData] = useState([])
     useEffect(async () => {
@@ -9,16 +13,20 @@ function FetchApiData(){
         setApiData(data);
         console.log('data',data);
     }, [])
+        
     return(
+        
         <div className='photos'>
-            <ul class = 'thumb'>
-                {apiData.map(item =>
-                <li key= {item.id} className='dogImages' >
-                   <img className ='dogPhotos' src = {item.img} ></img><br></br>
-                   Name: {item.name} | sex: {item.sex}
-                </li>
-                )}
-            </ul>
+                {apiData.map((item, index )=> (
+                <div key= {item.chipNumber} className='dogImages'> 
+                   <img className = 'image__img' src = {item.img}></img>
+                   <div className = 'image__overlay image__overlay--blur'>
+                       <div className = 'image__title'>
+                            Name: {item.name}</div>
+                   <p className='image__des'>sex: {item.sex}</p>
+                   </div>
+                </div>                
+                ))}
         </div>
     )
 }
