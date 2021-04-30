@@ -3,33 +3,143 @@
     .row {
     flex-direction: column;
     }
+    .paragarph{
+        margin-right: 20%;        
+    }
+    .benefitsPara{
+        margin-right: 20%;        
+    }
+    .benefitsList{
+        margin-right: 20%;
+    }
+    .doggyParagarph{
+        margin-right: 20%;
+    }
     .homeDogImage {
-      width: 100%;
-      height: 150px;
-       object-fit: contain;
-       margin-top: 1%;
+        width: 800px;
+        height: 800px;        
+        object-fit: contain;   
       }
+      .doggyImage{
+        width: 200px;
+        height: 400px;        
+        margin-top: 1%;
+        margin-left: 5%;
+         
+      }
+      .imageText{
+          margin-right: 20%;
+      }
+      .playDogImage {
+        width:50px;
+        height: 400px;        
+        margin-top: 1%;
+        margin-left: 5%;
+     }
+      .safeDes{
+        margin-left: 2%;
+        font-size: 1.2rem;
+        margin-right: 30%;
+    }
   }
   .leftSide {
-    flex: 50%;
+    flex: 70%;
     padding: 20px;
     
   }
   .rightSide {
-    flex: 50%;
+    flex: 100%;
     padding: 20px;
-    
+    margin-right: -20%;
+    align-items: flex-end;
+    justify-content: flex-end;
   }
   .row {  
     display: flex;
-    flex-wrap: wrap;
+    flex-direction: row;
   }
   .heading2{
     color: darkorange;
+    margin-left: 10%;
+  }
+  .heading5{
+    color: darkorange;
+    margin-left: 10%;
+  }
+  .heading7{
+    color: darkorange;
+    margin-left: 10%;
+    font-size: 1.7rem;
+  }
+  .heading6{
+    color: darkgrey;
+    margin-left: 10%;
   }
 .heading1{
     color: darkgray;
+    margin-left: 10%;
+}
+
+.heading4{
+    color: darkgray;
+    margin-left: 10%;
+    font-size: 2rem;
 }
 .paragarph{
-    color: palevioletred;
+    color: black;
+    margin-left: 10%;
+    font-size: 1.2rem;
+    
+}
+.doggyParagarph{
+    color: black;
+    margin-left: 10%;
+    font-size: 1.2rem;
+}
+.homeDogImage {
+    width: 40%;
+    height: 25%;
+    margin-top: 1%;
+    margin-left: 5%;
+ }
+.imageText{
+    color: darkgray;
+    font-size: 3rem;
+}
+.playDogImage {
+    width:100%;
+    height: 20%;
+    margin-top: 1%;
+    margin-left: 5%;
+ }
+ 
+ .play{
+    margin-top: 5%;
+    margin-left: 2%;
+    color: darkorange;
+}
+.safe{
+    margin-left: 2%;
+    color: darkgrey;   
+}
+.safeDes{
+    margin-left: 2%;
+    font-size: 1.2rem;
+}
+.doggyImage{
+    width: 500px;
+    height: 300px;        
+    
+    margin-top: 1%;
+    margin-left: 5%;
+}
+.benefitsPara{
+    color: black;
+    margin-left: 10%;
+    font-size: 1.2rem;
+}
+.benefitsList{
+    color: black;
+    margin-left: 10%;
+
 }

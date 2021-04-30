@@ -14,11 +14,17 @@
        object-fit: contain;
        margin-top: 1%;
       }
+      .h1{
+        margin-right: 5%;
+      }
+      .aboutus{
+        margin-right: 20%;
+      }
   }
   .leftSide {
     flex: 30%;
     padding: 20px;
-    color: palevioletred;
+    color: darkorange;
     
   }
   .rightSide {
@@ -31,8 +37,8 @@
     flex-wrap: wrap;
   }
   .h1{
-      color: palevioletred;
+      color: darkorange;
   }
   .h2{
-    color: palevioletred;
+    color: darkorange;
 }

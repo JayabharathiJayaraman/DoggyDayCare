@@ -39,7 +39,7 @@ function NavBar(){
                 className='nav-links'
                 onClick={closeMobileMenu}
               >
-                Photos
+                Gallery
               </Link>
             </li>
             <li className='nav-item'>

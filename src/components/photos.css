@@ -3,9 +3,16 @@ body {
   padding: 0px;
   font-family: 'Roboto', sans-serif;
   }
+  .pageTitle{
+    margin-left: 40%;
+    font-size: 2em;
+    font-weight: bold;
+    color: palevioletred;
+  }
   .photos {
     display: grid;
     grid-template-columns: repeat(4,1fr);    
+    grid-row-gap: 0px;
     
   }
 .dogImages{
@@ -50,9 +57,11 @@ body {
 .image__title{
   font-size: 2em;
   font-weight: bold;
+  color: palevioletred;
+  
 }
 .image__description{
-  font-size: 1.25em;
+  font-size: 2.25em;
   margin-top: 0.25em;
 }
   @media (min-width: 375px) {
